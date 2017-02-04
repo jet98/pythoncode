@@ -29,7 +29,6 @@ def main():
     list = readTemps()
     print "Please enter percentage split ex. 35 (will split 35/65): ",
     split1 = raw_input()
-    split2 = 100 - float(split1)
     first = len(list) * (float(split1) * .01)
     avg = calcAvg(list, 0, int(first))
     annom = count(list, 0, int(first))
