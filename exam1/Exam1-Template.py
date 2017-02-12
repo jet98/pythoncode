@@ -14,10 +14,10 @@ def readData(filename):
 # in the the specified list (l)
 # ------------------------------------------------------
 def getAverage(l):
-    avg = 0
+    avg = 0.0
     for num in l:
-        avg += int(num)
-    avg = avg / len(l)
+        avg += float(num)
+    avg = float(avg) / len(l)
     return avg
     
 # ------------------------------------------------------
