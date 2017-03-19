@@ -7,6 +7,7 @@ def main():
     double = list[r]
     list.append(double)
     round = 1
+    random.shuffle(list)
     while True:
         pick1 = module.getInt("Pick the first card to turn over (0-9)")
         while pick1 < 0 or pick1 > 9:
