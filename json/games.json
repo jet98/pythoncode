@@ -1,0 +1,7 @@
+[
+{"Title": "Final Fantasy XIV", "Genre": ["MMORPG"], "Classes": ["Tank", "DPS", "Healer", "Gatherer", "Crafter"]},
+{"Title": "Paragon", "Genre": ["MOBA"], "Classes": ["Tank", "Carry", "Support", "Jungler"]},
+{"Title": "Overwatch", "Genre": ["MOBA", "Shooter"], "Classes": ["Tank", "DPS", "Defense", "Support"]},
+{"Title": "Bloodborne", "Genre": ["Action", "RPG"], "Classes": ["Milquetoast", "Lone Survivor", "Troubled Childhood", "Violent Past", "Professional", "Military Veteran", "Noble Scion", "Cruel Fate", "Waste of Skin"]},
+{"Title": "Battlefield 4", "Genre": ["Shooter"], "Classes": ["Assult", "Engineer", "Support", "Recon"]}
+]
